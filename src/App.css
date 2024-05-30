@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+form {
+  margin: 20px 0;
+}
+
+img {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
